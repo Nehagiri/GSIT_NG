@@ -1,3 +1,4 @@
 I am master
 Login
 Payment
+Google Pay
